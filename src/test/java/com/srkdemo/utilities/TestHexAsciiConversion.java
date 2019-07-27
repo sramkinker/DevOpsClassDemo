@@ -1,4 +1,4 @@
-package com.srkdemo.utilities;
+package com.eurekademo.utilities;
 
 import static org.junit.Assert.*;
 
