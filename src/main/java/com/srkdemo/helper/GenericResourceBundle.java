@@ -1,4 +1,4 @@
-package com.edurekademo.helper;
+package com.srkdemo.helper;
 
 import java.util.Enumeration;
 import java.util.ResourceBundle;
